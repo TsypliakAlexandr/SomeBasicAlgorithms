@@ -1,0 +1,7 @@
+D:\2_My own applications\24_EssentialAlgorithms_RodStephens\1_Greatest common divisor\AlgorithmConsoleApp\AlgorithmConsoleApp\bin\Debug\AlgorithmConsoleApp.exe.config
+D:\2_My own applications\24_EssentialAlgorithms_RodStephens\1_Greatest common divisor\AlgorithmConsoleApp\AlgorithmConsoleApp\bin\Debug\AlgorithmConsoleApp.exe
+D:\2_My own applications\24_EssentialAlgorithms_RodStephens\1_Greatest common divisor\AlgorithmConsoleApp\AlgorithmConsoleApp\bin\Debug\AlgorithmConsoleApp.pdb
+D:\2_My own applications\24_EssentialAlgorithms_RodStephens\1_Greatest common divisor\AlgorithmConsoleApp\AlgorithmConsoleApp\obj\Debug\AlgorithmConsoleApp.csprojAssemblyReference.cache
+D:\2_My own applications\24_EssentialAlgorithms_RodStephens\1_Greatest common divisor\AlgorithmConsoleApp\AlgorithmConsoleApp\obj\Debug\AlgorithmConsoleApp.csproj.CoreCompileInputs.cache
+D:\2_My own applications\24_EssentialAlgorithms_RodStephens\1_Greatest common divisor\AlgorithmConsoleApp\AlgorithmConsoleApp\obj\Debug\AlgorithmConsoleApp.exe
+D:\2_My own applications\24_EssentialAlgorithms_RodStephens\1_Greatest common divisor\AlgorithmConsoleApp\AlgorithmConsoleApp\obj\Debug\AlgorithmConsoleApp.pdb
