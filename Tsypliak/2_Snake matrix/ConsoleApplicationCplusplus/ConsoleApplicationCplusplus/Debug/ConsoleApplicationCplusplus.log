@@ -1,0 +1,3 @@
+﻿  ConsoleApplicationCplusplus.cpp
+d:\2_my own applications\24_essentialalgorithms_rodstephens\tsypliak\2_snake matrix\consoleapplicationcplusplus\consoleapplicationcplusplus\consoleapplicationcplusplus.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplicationCplusplus.vcxproj -> D:\2_My own applications\24_EssentialAlgorithms_RodStephens\Tsypliak\2_Snake matrix\ConsoleApplicationCplusplus\Debug\ConsoleApplicationCplusplus.exe
